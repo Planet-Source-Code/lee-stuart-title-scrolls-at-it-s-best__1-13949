@@ -1,0 +1,10 @@
+Hey there =)
+This is code for ppl who want to learn and are just learning, like me.
+It shows you how to scroll the title rather simply on a form.
+I have included some different scrolls you can use, In the folder "Try This After Title Scroll".
+It is designed to make you think more as to how it was done after working with the actual Title Scroll Project.
+There is lots of easy to understand commenting so anyone should know what they are doing.
+I don't really bother about votes myself.
+Like I said, this is for ppl to learnn from.
+Anyways, I hope you enjoy it.
+Serenity_2k@hotmail.com
